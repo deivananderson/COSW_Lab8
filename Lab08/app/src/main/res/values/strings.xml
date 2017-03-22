@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="add_photo">ADD PHOTO</string>
+    <string name="save">SAVE</string>
+</resources>
